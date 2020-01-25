@@ -1,0 +1,13 @@
+{
+  "db": {
+    "host": "mongodb+srv://apibooks-lro1w.mongodb.net/test",
+    "port": 47052,
+    "url": "mongodb+srv://newUser:Secreta123@apibooks-lro1w.mongodb.net/test?retryWrites=true&w=majority",
+    "database": "apiBooks",
+    "password": "Secreta123",
+    "name": "db",
+    "user": "newUser",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  }
+}
